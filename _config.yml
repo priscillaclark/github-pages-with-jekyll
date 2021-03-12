@@ -1,9 +1,8 @@
 theme: minima
-title: Notas
+title: Notas de Programación
 author: Priscilla Clark
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Notas de Programacion
+  Gracias por visitar
 
 # social links
 twitter_username: prisandia # DO NOT include the @ character, or else the build will fail!
